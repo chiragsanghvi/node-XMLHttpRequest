@@ -9,7 +9,7 @@
   }]
 , "repository": {
     "type": "git"
-  , "url": "git://github.com/chiragsanghvi/node-XMLHttpRequest.git",
+  , "url": "git://github.com/chiragsanghvi/node-XMLHttpRequest.git"
   }
 , "engines": {
     "node": ">=0.4.0"
