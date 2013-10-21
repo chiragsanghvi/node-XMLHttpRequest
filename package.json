@@ -1,21 +1,16 @@
 {
-  "name": "xmlhttprequest"
-, "description": "XMLHttpRequest for Node"
+  "name": "xmlhttprequest-with-globalagent"
+, "description": "Dan DeFelippi's XMLHttpRequest package for Node with globalAgent support"
 , "version": "1.5.1"
-, "author": {
-    "name": "Dan DeFelippi"
-  , "url": "http://driverdan.com"
-  }
-, "keywords": ["xhr", "ajax"]
+, "keywords": []
 , "licenses": [{
     "type": "MIT"
   , "url": "http://creativecommons.org/licenses/MIT/"
   }]
 , "repository": {
     "type": "git"
-  , "url": "git://github.com/driverdan/node-XMLHttpRequest.git"
+  , "url": "git://github.com/chiragsanghvi/node-XMLHttpRequest.git",
   }
-, "bugs": "http://github.com/driverdan/node-XMLHttpRequest/issues"
 , "engines": {
     "node": ">=0.4.0"
   }
