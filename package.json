@@ -1,7 +1,7 @@
 {
   "name": "xmlhttprequest-with-globalagent"
 , "description": "Dan DeFelippi's XMLHttpRequest package for Node with globalAgent support"
-, "version": "1.5.4"
+, "version": "1.5.5"
 , "keywords": []
 , "licenses": [{
     "type": "MIT"
